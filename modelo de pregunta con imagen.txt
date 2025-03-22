@@ -1,0 +1,10 @@
+       modelo de pregunta con imagen
+
+El siguiente esquema muestra los organelos que participan en el proceso de formación de proteínas hasta que estas son incorporadas en los organelos de la misma célula o hacia el medio celular.
+
+<div class="text-center">
+  <img class="img-fluid d-block mx-auto mb-3" alt="" src="https://recursos-ucentral.scalahed.com/recursos/files/r6r/w301w/FB-augestionada-Figura1-Formacion-proteina.png">
+  <small>Figura 1. Formación de una proteína<br>Nota. Elaboración propia (2019).</small>
+</div>
+
+De acuerdo con el esquema, si ocurriera un fallo a nivel del complejo de Golgi, se esperaría que la célula fuera incapaz de:
